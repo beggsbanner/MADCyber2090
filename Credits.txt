@@ -1,7 +1,19 @@
 ## Asset Credits for MADCyber2090
 
-- **Cyberpunk Interior Tileset**
+- **Cyberpunk Ie4nterior Tileset**
   - Creator: @livingtheindie
   - License: Free for Commercial and Non-Commercial Use
   - Note: Credit is not required but greatly appreciated.
-  - [Link to Creator/Profile or Asset (if applicable)]
+  - [https://livingtheindie.itch.io/pixel-cyberpunk-interior]
+
+ **Cyberpunk Antihero - Free Animated Pixel Art Character**
+  - Creator: @Aske4
+  - License: Free for Commercial and Non-Commercial Use
+  - Note: Credit is not required but greatly appreciated.
+  - [https://aske4.itch.io/antihero-character]
+
+   **Cyberpunk Antihero - Free Animated Pixel Art Character**
+  - Creator: @yanin
+  - License: Free for Commercial and Non-Commercial Use
+  - Note: Credit is not required but greatly appreciated.
+  - [https://yaninyunus.itch.io/neo-zero-cyberpunk-city-tileset]
